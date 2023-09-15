@@ -1,6 +1,6 @@
 # Epsilon_Mid_Project
 
-This project is part of Data Science Diploma From @EpsilonAI. 
+This project is part of Data Science Diploma From @[Epsilon AI]. 
 
 The project is Analysis and visualization Dataset and get insight about the data.
 
